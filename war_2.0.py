@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #War 2.0 
 #1.1 Fixed edge case where if you ran out of cars to 'War' with as your last card, it crashed.
 #1.2 Fixed when a player has 3 cards left, the loop declares a winner before the results of the war.
